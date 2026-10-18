@@ -55,8 +55,7 @@ Produce a paste-ready handoff another agent can run cold. Minimal tokens. No flu
 ```
 
 ## Do not
-- <≤3 hard constraints>
-```
+- <3 hard constraints>
 
 ## Rules
 
